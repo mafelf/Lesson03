@@ -1,0 +1,37 @@
+img{
+    width: 300px;
+}
+a{
+    color: rgb(7, 13, 162);
+}
+a:hover{
+    text-decoration: none;
+}
+body{
+    color: #343434;
+}
+header{
+    background:  rgb(221, 191, 255);
+}
+.projects{
+    background: rgb(215, 239, 250);
+}
+.projects a{
+color: blueviolet;
+}
+.projects .btn{
+    color: aliceblue;
+    background: rgb(53, 33, 143);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover{
+    background: rgb(53, 33, 143, 80%);
+}
+.experience{
+    background: rgb(252, 227, 195);
+}
+footer{
+    background: rgb(201, 201, 201);
+}
